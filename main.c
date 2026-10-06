@@ -2,10 +2,10 @@
 #include <stdint.h>
 #include "fos_scheduler.h"
 
-uint16_t task1_delay = 500;
-uint16_t task2_delay = 500;
-uint16_t task3_delay = 500;
-uint16_t task4_delay = 500;
+uint16_t task1_delay = 1000;
+uint16_t task2_delay = 1000;
+uint16_t task3_delay = 1000;
+uint16_t task4_delay = 1000;
 
 uint8_t task1_priority = 0;
 uint8_t task2_priority = 1;
